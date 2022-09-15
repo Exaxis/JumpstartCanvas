@@ -1,0 +1,29 @@
+{
+  "name": "jumpstartcanvas",
+  "version": "0.0.1",
+  "description": "A lightweight utility for quickly creating interactable, animated canvases.",
+  "main": "jumpstartCanvas.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Exaxis/JumpstartCanvas.git"
+  },
+  "keywords": [],
+  "author": "Mahlon Winstead",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Exaxis/JumpstartCanvas/issues"
+  },
+  "homepage": "https://github.com/Exaxis/JumpstartCanvas#readme",
+  "devDependencies": {
+    "typescript": "^4.8.3"
+  },
+  "files": [
+    "lib/**/*"
+  ],
+  "types": "lib/jumpstartCanvas.d.ts"
+}
