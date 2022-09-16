@@ -2,7 +2,7 @@
   "name": "jumpstartcanvas",
   "version": "0.0.1",
   "description": "A lightweight utility for quickly creating interactable, animated canvases.",
-  "main": "jumpstartCanvas.js",
+  "main": "lib/jumpstartCanvas.js",
   "scripts": {
     "test": "jest --config jestconfig.json",
     "build": "tsc",
